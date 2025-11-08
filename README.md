@@ -40,7 +40,6 @@ This dataset provides a simulation file for the Interleaved Vienna Rectifier wit
 The dataset includes the following files:
 
 * `IVR-PFM_Simulation.psimsch`: The primary simulation file for PSIM software
-* `components_data.txt`: Component specifications and parameters
 
 ### 3. Instructions for Use
 
@@ -131,7 +130,6 @@ IVR-PFM-Simulation/
 ├── CITATION.cff
 ├── simulation/
 │   ├── IVR-PFM_Simulation.psimsch
-│   └── components_data.txt
 ├── images/
 │   └── control-scheme.png
 └── docs/
