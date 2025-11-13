@@ -92,9 +92,15 @@ If you use this simulation in your research, please cite:
 
 ## Related Publications
 
+<!-- ### Main Publication
+
+J. W. M. Soares, É. A. Tonolo and A. A. Badin, "Interleaved Vienna Rectifier With Pulse Frequency Modulation for Three-Phase Three-Wire Applications," in IEEE Transactions on Industrial Electronics, 2025. DOI: [10.1109/TIE.2025.3607969](https://doi.org/10.1109/TIE.2025.3607969) -->
+
 ### Main Publication
 
-J. W. M. Soares, É. A. Tonolo and A. A. Badin, "Interleaved Vienna Rectifier With Pulse Frequency Modulation for Three-Phase Three-Wire Applications," in IEEE Transactions on Industrial Electronics, 2025. DOI: [10.1109/TIE.2025.3607969](https://doi.org/10.1109/TIE.2025.3607969)
+J. W. M. Soares, É. A. Tonolo and A. A. Badin, "Interleaved Vienna Rectifier With Pulse Frequency Modulation for Three-Phase Three-Wire Applications," in *IEEE Transactions on Industrial Electronics*, 2025. DOI: [10.1109/TIE.2025.3607969](https://doi.org/10.1109/TIE.2025.3607969)
+
+[![Open Access](https://img.shields.io/badge/Open%20Access-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 ### Additional Related Publications
 
